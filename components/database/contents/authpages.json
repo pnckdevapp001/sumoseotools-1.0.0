@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"name": "Login"
+	},
+	{
+		"id": 2,
+		"name": "Register"
+	},
+	{
+		"id": 3,
+		"name": "Forgot Password"
+	},
+	{
+		"id": 4,
+		"name": "Reset Password"
+	},
+	{
+		"id": 5,
+		"name": "Verify Email"
+	},
+	{
+		"id": 6,
+		"name": "Profile"
+	}
+]

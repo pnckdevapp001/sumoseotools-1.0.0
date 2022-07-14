@@ -1,0 +1,18 @@
+[
+	{
+		"id": 14,
+		"title": "Website Management Tools",
+		"description": "Use these website management tools and in-depth web analytics to get more traffic and improve your website performance.",
+		"align": "start",
+		"background": "bg-gradient-primary",
+		"sort": 1
+	},
+	{
+		"id": 15,
+		"title": "Website Tracking Tools",
+		"description": "List of free tools in one place to measure, monitor, and track your website performance.",
+		"align": "start",
+		"background": "bg-gradient-primary",
+		"sort": 0
+	}
+]
